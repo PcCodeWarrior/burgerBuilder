@@ -1,6 +1,6 @@
 import React from 'react';
 import classes from './BuildControl.css';
-import PropTypes from 'prop-types';
+
 
 const buildControl = props => {
     return (
@@ -12,6 +12,6 @@ const buildControl = props => {
     );
 };
 
-buildControl.propTypes = {};
+
 
 export default buildControl;
