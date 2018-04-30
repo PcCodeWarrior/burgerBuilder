@@ -28,9 +28,6 @@ const buildControls = props => {
     );
 };
 
-buildControls.propTypes = {
-    
-};
 
 export default buildControls;
 
